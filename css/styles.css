@@ -1,0 +1,58 @@
+body {
+    background-color: black; 
+    text-align: center; 
+    color: azure;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.test1 {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    max-width: 600px;
+   margin: 0 auto;
+}
+
+
+
+.top-section {
+    font-weight: bold;
+        width: 600px;
+      margin: 50px;
+            padding: 50px;
+            margin: 150px;
+    background-image: url(../images/spaghetti.jpg) ; 
+    background-repeat: no-repeat;   
+    background-size: cover;
+    background-position: center;
+    justify-items: center;
+    
+}
+
+.middle-section {
+    color:rgb(7, 105, 209);
+    background-color: transparent;
+    font-size: 25px;
+    font-style: italic;
+    width: 300px;
+    justify-items: center;
+}
+
+.bottom-section {
+    background-color: aquamarine;
+    font-size: 21px;
+    font-style: normal;
+    text-align: left;
+    width: fit-content;
+    margin-left: 200px;
+}
+
+span {
+    color:rgb(78, 209, 7);
+    font-weight: bold;
+}
+
